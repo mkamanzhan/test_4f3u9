@@ -1,0 +1,13 @@
+{
+    "animals": ["mammals", "birds"],
+    "mammals": ["dogs"],
+    "birds": ["eagles"],
+    "technology": ["computers", "gadgets", "internet"],
+    "computers": ["software", "hardware"],
+    "gadgets": ["smartphones", "smartwatches"],
+    "internet": ["social_media"],
+    "science": ["biology", "physics", "chemistry"],
+    "biology": ["genetics"],
+    "sports": ["football", "basketball"],
+    "football": ["soccer", "american_football"]
+}

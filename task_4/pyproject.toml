@@ -1,0 +1,23 @@
+[project]
+name = "task_4"
+version = "0.1.0"
+description = "Default template for PDM package"
+authors = [
+    {name = "m.k.amanzhan@gmail.com", email = "m.k.amanzhan@gmail.com"},
+]
+dependencies = [
+    "fastapi==0.*",
+    "pydantic==1.*",
+]
+requires-python = "==3.11.*"
+readme = "README.md"
+license = {text = "MIT"}
+
+
+[tool.pdm]
+distribution = false
+
+[tool.pdm.dev-dependencies]
+dev = [
+    "ipdb>=0.13.13",
+]

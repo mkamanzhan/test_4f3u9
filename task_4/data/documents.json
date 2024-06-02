@@ -1,0 +1,82 @@
+{
+    "document_1": {
+        "uri": "http://example.com/doc1",
+        "tags": ["animals", "mammals"]
+    },
+    "document_2": {
+        "uri": "http://example.com/doc2",
+        "tags": ["animals", "birds"]
+    },
+    "document_3": {
+        "uri": "http://example.com/doc3",
+        "tags": ["technology", "computers"]
+    },
+    "document_4": {
+        "uri": "http://example.com/doc4",
+        "tags": ["mammals", "dogs"]
+    },
+    "document_5": {
+        "uri": "http://example.com/doc5",
+        "tags": ["birds", "eagles"]
+    },
+    "document_6": {
+        "uri": "http://example.com/doc6",
+        "tags": ["technology", "computers", "software"]
+    },
+    "document_7": {
+        "uri": "http://example.com/doc7",
+        "tags": ["technology", "computers", "hardware"]
+    },
+    "document_8": {
+        "uri": "http://example.com/doc8",
+        "tags": ["biology"]
+    },
+    "document_9": {
+        "uri": "http://example.com/doc9",
+        "tags": ["science", "physics"]
+    },
+    "document_10": {
+        "uri": "http://example.com/doc10",
+        "tags": ["biology", "genetics"]
+    },
+    "document_11": {
+        "uri": "http://example.com/doc11",
+        "tags": ["science", "chemistry"]
+    },
+    "document_12": {
+        "uri": "http://example.com/doc12",
+        "tags": ["technology", "gadgets"]
+    },
+    "document_13": {
+        "uri": "http://example.com/doc13",
+        "tags": ["gadgets", "smartphones"]
+    },
+    "document_14": {
+        "uri": "http://example.com/doc14",
+        "tags": ["smartwatches"]
+    },
+    "document_15": {
+        "uri": "http://example.com/doc15",
+        "tags": ["technology", "internet"]
+    },
+    "document_16": {
+        "uri": "http://example.com/doc16",
+        "tags": ["internet", "social_media"]
+    },
+    "document_17": {
+        "uri": "http://example.com/doc17",
+        "tags": ["football"]
+    },
+    "document_18": {
+        "uri": "http://example.com/doc18",
+        "tags": ["basketball"]
+    },
+    "document_19": {
+        "uri": "http://example.com/doc19",
+        "tags": ["football", "soccer"]
+    },
+    "document_20": {
+        "uri": "http://example.com/doc20",
+        "tags": ["sports", "football", "american_football"]
+    }
+}
